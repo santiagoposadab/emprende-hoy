@@ -20,6 +20,8 @@ Una vez instalado nos va a pedir que instalemos el plugin elementor y luego de s
 
   Con estos pasos las plantillas debirian funcionar correctamente.
 
+  De la misma manera el dejo publicado el demo en https://www.santiagoposadab.com/emprendehoy/
+
 
 
 
